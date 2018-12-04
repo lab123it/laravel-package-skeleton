@@ -1,6 +1,6 @@
 <?php
 
-namespace :package_name\Exceptions;
+namespace :PackageName\Exceptions;
 
 class CouldNotSendNotification extends \Exception
 {

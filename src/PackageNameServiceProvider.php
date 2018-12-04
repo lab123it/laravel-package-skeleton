@@ -1,9 +1,9 @@
 <?php
-namespace :package_name;
+namespace :PackageName;
 
 use Illuminate\Support\ServiceProvider;
 
-class :package_nameServiceProvider extends ServiceProvider
+class :PackageNameServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.

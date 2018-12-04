@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            ":package_name\\": "src"
+            ":PackageName\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            ":package_name\\Test\\": "tests"
+            ":PackageName\\Test\\": "tests"
         }
     },
     "scripts": {
